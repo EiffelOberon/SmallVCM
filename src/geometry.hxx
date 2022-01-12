@@ -25,6 +25,7 @@
 #ifndef __GEOMETRY_HXX__
 #define __GEOMETRY_HXX__
 
+#include <algorithm>
 #include <vector>
 #include <cmath>
 #include "math.hxx"

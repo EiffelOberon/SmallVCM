@@ -9,3 +9,6 @@
 SmallVCM.vcxproj.user
 /build/*
 /ipch/*
+.vs/SmallVCM/v16/ipch/AutoPCH/8a73f1d31f6ed2be/SMALLVCM.ipch
+.vs/SmallVCM/v16/Browse.VC.opendb
+.vs/SmallVCM/v16/Browse.VC.db

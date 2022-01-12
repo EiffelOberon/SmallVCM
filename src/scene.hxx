@@ -25,6 +25,7 @@
 #ifndef __SCENE_HXX__
 #define __SCENE_HXX__
 
+#include <algorithm>
 #include <vector>
 #include <map>
 #include <cmath>

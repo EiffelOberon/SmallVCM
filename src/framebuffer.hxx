@@ -25,6 +25,7 @@
 #ifndef __FRAMEBUFFER_HXX__
 #define __FRAMEBUFFER_HXX__
 
+#include <algorithm>
 #include <vector>
 #include <cmath>
 #include <fstream>
